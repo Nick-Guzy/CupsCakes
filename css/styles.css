@@ -1,0 +1,10 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+#best {
+  border: 10px solid pink;
+  box-shadow: 4px 4px 4px black;
+}
+
